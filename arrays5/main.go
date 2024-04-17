@@ -21,6 +21,7 @@ func main() {
 	// var novalue[5]float64
 	// fmt.Println(novalue)
 	var location =[10] float64{2323,4,4,4,55,5,553}
+	fmt.Println("ee",location)
 	
 
 
